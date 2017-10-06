@@ -1,0 +1,12 @@
+<TextView
+    android:id="@+id/HeaderText"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:layout_alignParentTop="true"
+    android:layout_centerHorizontal="true"
+    android:layout_marginTop="52dp"
+    android:gravity="center"
+    android:text="CallerBlocker"
+    android:textSize="40dp"
+    android:fontFamily="Arial"
+/>
