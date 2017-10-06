@@ -9,7 +9,10 @@ android:fontFamily="sans-serif-thin"      // roboto thin (android 4.2)
 android:fontFamily="sans-serif-medium"    // roboto medium (android 5.0)
 ```
 
-###enter image description here
+### enter image description here
+<p align="center">
+<img src="https://github.com/rdnasim/best-Android-development-resources/blob/master/Style-Performence/FontFamily/font_family.png">
+</p>
 
 in combination with
 ```
@@ -17,24 +20,23 @@ android:textStyle="normal|bold|italic"
 ```
 this 16 variants are possible:
 
-```
-Roboto regular
-Roboto italic
-Roboto bold
-Roboto bold italic
-Roboto-Light
-Roboto-Light italic
-Roboto-Thin
-Roboto-Thin italic
-Roboto-Condensed
-Roboto-Condensed italic
-Roboto-Condensed bold
-Roboto-Condensed bold italic
-Roboto-Black
-Roboto-Black italic
-Roboto-Medium
-Roboto-Medium italic
-```
+* Roboto regular
+* Roboto italic
+* Roboto bold
+* Roboto bold italic
+* Roboto-Light
+* Roboto-Light italic
+* Roboto-Thin
+* Roboto-Thin italic
+* Roboto-Condensed
+* Roboto-Condensed italic
+* Roboto-Condensed bold
+* Roboto-Condensed bold italic
+* Roboto-Black
+* Roboto-Black italic
+* Roboto-Medium
+* Roboto-Medium italic
+
 ## fonts.xml
 
 ```
